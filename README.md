@@ -10,7 +10,7 @@ JDK DOWNLOAD:-
 -->Select the version of java , then select the operating system.
 -->Select windows and click on *64 installer link.
 -->Then jdk will be downloaded.
-
+1111
 JDK INSTALLATION:-
 -----------------
 -->Open JDK file
